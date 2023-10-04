@@ -2,14 +2,18 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejllYTI0bmZpdHN4NHh4cmM5dHFiaTN0ZHJ6dXVmN2owMDFieDFtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+    
 </div>
 <div align="center" id="badges">
   <a href="https://t.me/AndronChab">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white/t.me/AndronChab" alt="Telegram Badge"/>
   </a>
-    <img  src ="https://komarev.com/ghpvc/?username=andreychabanyuk&style=fflat=square&color=blue" alt=""/>
+  <a href="https://vk.com/darksidos67">
+    <img src="https://img.shields.io/badge/vkontakte-blue?logo=vk&logoColor=white" alt="Vkontakte Badge"/>
+  </a>
+    <img  src ="https://komarev.com/ghpvc/?username=andreychabanyuk&style=flat=square&color=blue" alt=""/>
     <h1>
-    Hi there
+    Hi there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -24,14 +28,15 @@
 
 I am 24 years old and a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
 
-<div align="left">
+<div >
   
 -  🌱 In my free time I study and practice front-end development
 -  🔭 I'm currently looking for an internship as a front-end developer.
 
-</div>
+</div align="left">
 
 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white/t.me/AndronChab)](https://t.me/AndronChab)
+[![Vkontakte Badge](https://img.shields.io/badge/vkontakte-blue?logo=vk&logoColor=white)](https://vk.com/darksidos67)
 
 ---
 <h3>
