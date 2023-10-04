@@ -55,8 +55,6 @@ Languages and Tools:
 <h2>My Stats</h2>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreychabanyuk&theme=dark)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andreychabanyuk&theme=dark)](https://git.io/streak-stats)
 
 
