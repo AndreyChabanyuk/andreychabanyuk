@@ -26,12 +26,13 @@
 
 
 
-I am 24 years old and a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
+I am 26 years old and a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
 
 <div >
   
 -  🌱 In my free time I study and practice front-end development
--  🔭 I'm currently looking for an internship as a front-end developer.
+-  🔭 Currently, I am working in the automation department and supporting two projects: our own website and an employee site. My responsibilities include maintaining and developing functionality, features, and ideas.
+   Сurrent stack: VUE 3/NUXT Composition API, TypeScript, Pinia, SASS/SCSS, Docker, Vite.
 
 </div align="left">
 
@@ -51,6 +52,7 @@ Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
 
   
 </div>
