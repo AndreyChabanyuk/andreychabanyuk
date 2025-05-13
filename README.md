@@ -31,8 +31,9 @@ I am 26 years old and a Frontend Developer <img src="https://media.giphy.com/med
 <div >
   
 -  🌱 In my free time I study and practice front-end development
--  🔭 Currently, I am working in the automation department and supporting two projects: our own website and an employee site. My responsibilities include maintaining and developing functionality, features, and ideas.<br/>
-  Current stack: <p>VUE 3/NUXT Composition API, TypeScript, Pinia, SASS/SCSS, Docker, Vite.</p>
+-  🔭 Currently, I am working in the automation department and supporting two projects: our own website and an employee site. My responsibilities include maintaining and developing functionality, features, and ideas. <br/>
+
+Current stack: <p>VUE 3/NUXT Composition API, TypeScript, Pinia, SASS/SCSS, Docker, Vite.</p>
 
 </div align="left">
 
