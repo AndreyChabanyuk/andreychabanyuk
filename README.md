@@ -5,7 +5,7 @@
     
 </div>
 <div align="center" id="badges">
-  <a href="https://t.me/AndronChab">
+  <a href="https://t.me/AndronChb">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white/t.me/AndronChab" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/darksidos67">
@@ -31,7 +31,7 @@ I am 26 years old and a Frontend Developer <img src="https://media.giphy.com/med
 <div >
   
 -  🌱 In my free time I study and practice front-end development
--  🔭 Currently, I am working in the automation department and supporting two projects: our own website and an employee site. My responsibilities include maintaining and developing functionality, features, and ideas.
+-  🔭 Currently, I am working in the automation department and supporting two projects: our own website and an employee site. My responsibilities include maintaining and developing functionality, features, and ideas.<br/>
   Current stack: VUE 3/NUXT Composition API, TypeScript, Pinia, SASS/SCSS, Docker, Vite.
 
 </div align="left">
