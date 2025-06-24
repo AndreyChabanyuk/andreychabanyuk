@@ -6,7 +6,7 @@
 </div>
 <div align="center" id="badges">
   <a href="https://t.me/AndronChb">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white/t.me/AndronChab" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white/t.me/AndronChb" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/darksidos67">
     <img src="https://img.shields.io/badge/vkontakte-blue?logo=vk&logoColor=white" alt="Vkontakte Badge"/>
