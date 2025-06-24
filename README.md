@@ -37,7 +37,7 @@ Current stack: <p>VUE 3/NUXT Composition API, TypeScript, Pinia, SASS/SCSS, Dock
 
 </div align="left">
 
-📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white/t.me/AndronChb)](https://t.me/AndronChab)
+📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white/t.me/AndronChb)](https://t.me/AndronChb)
 [![Vkontakte Badge](https://img.shields.io/badge/vkontakte-blue?logo=vk&logoColor=white)](https://vk.com/darksidos67)
 
 ---
